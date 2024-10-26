@@ -10,3 +10,8 @@
    - **技術スタック**: Python
    - **リンク**: [GitHubリポジトリへのリンク](https://github.com/suis229/Video-Processor)
 
+2. **Rondom Dish**
+   - **概要**: 食べたい料理ジャンルを選択するといくつかの具体的な料理が提案されるサイトです。
+   - **技術スタック**: JavaScript
+   - **リンク1**: [GitHubリポジトリへのリンク](https://github.com/team-b-Red/Random-dish)
+   - **リンク2**: [Webサイトへのリンク](https://team-b-red.github.io/Random-dish/)
