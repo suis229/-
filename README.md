@@ -11,7 +11,7 @@
    - **リンク**: [GitHubリポジトリへのリンク](https://github.com/suis229/Video-Processor)
 
 3. **Video-Processor**
-   - **概要**: 2のVideo-ProcessorをWebアプリケーションとして作成したもの。
+   - **概要**: 2のVideo-ProcessorをFlaskを用いてWebアプリケーションとしたバージョンです。
    - **技術スタック**: Python(Flask), JavaScript
    - **リンク**: [GitHubリポジトリへのリンク](https://github.com/suis229/Video-Processing-Web-App)
 
